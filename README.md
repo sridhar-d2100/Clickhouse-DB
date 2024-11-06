@@ -1,5 +1,4 @@
 
-
 # ClickHouse-DB Data Engineering Project
 
 This project demonstrates core data engineering principles, focusing on data extraction, transformation, and loading (ETL) into an open-source data warehouse.
